@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    background: none repeat scroll 0 0 #BEC3C6;
+    color: #555555;
+    font-family: Verdana,"BitStream vera Sans",Helvetica,Sans-serif;
+    font-size: 12px;
+}
+
+#container {
+	width: 960px;
+	height: 760px;
+	background-color: green;
+}

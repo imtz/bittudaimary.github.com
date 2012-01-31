@@ -4,14 +4,13 @@
 }
 
 body {
-    background: none repeat scroll 0 0 #BEC3C6;
-    color: #555555;
-    font-family: Verdana,"BitStream vera Sans",Helvetica,Sans-serif;
-    font-size: 12px;
+	margin-top: 60px;
 }
 
 #container {
+	margin-left: auto;
+	margin-right: auto;
 	width: 960px;
 	height: 760px;
-	background-color: green;
+	background-color: #97AD9F
 }

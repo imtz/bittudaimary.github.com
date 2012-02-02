@@ -3,4 +3,4 @@
 
 
 A documentation on Medicine Procurement System.To view the documentation visit site 
-http://nrhmdoc.github.com or dowload and run index.html.
+http://bittudaimary.github.com or download and run index.html.
